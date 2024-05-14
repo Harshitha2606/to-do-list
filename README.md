@@ -11,8 +11,9 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Simple to-do list tracker for adding items
+<img width="1492" alt="Screen Shot 2024-05-13 at 7 13 13 PM" src="https://github.com/Harshitha2606/to-do-list/assets/151476392/df28d831-4beb-4858-8940-3fbbfaace133">
+
 
 ### `npm test`
 
